@@ -1,0 +1,212 @@
+{
+  "8e75d6ed3db26fc4f81bb1f8bfa293ac" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "271c9762886dbbb7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628566150147,
+        "stop" : 1628566153579,
+        "duration" : 3432
+      }
+    } ]
+  },
+  "622c10c1ae198d61560bca8432ecb06" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c4ba68e99d26b4a8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628566141929,
+        "stop" : 1628566143544,
+        "duration" : 1615
+      }
+    } ]
+  },
+  "96773ce3e58b9ad0522c10265563bb76" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2c321589207b7232",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628566147489,
+        "stop" : 1628566150136,
+        "duration" : 2647
+      }
+    } ]
+  },
+  "7dcb6cb8c86af408c9db25ad54a83cf1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e6869475bedd8e7e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628566135201,
+        "stop" : 1628566138532,
+        "duration" : 3331
+      }
+    } ]
+  },
+  "bf5dd4102ad17760c698704d4659ae83" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f7a3b1aca710ec8a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628516608489,
+        "stop" : 1628516614033,
+        "duration" : 5544
+      }
+    } ]
+  },
+  "b349610e5fa26df988fb1ed2b57c85d7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "705e59447834e279",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628543497924,
+        "stop" : 1628543502214,
+        "duration" : 4290
+      }
+    } ]
+  },
+  "16b17266d6a797061ebef1b46d7c86e1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "aefe3a3366db6d4e",
+      "status" : "broken",
+      "statusDetails" : "Could not find factory method [flightRoutes] in class [tests.FlightStatusByRoute]",
+      "time" : {
+        "start" : 1628564063574,
+        "stop" : 1628564063582,
+        "duration" : 8
+      }
+    } ]
+  },
+  "4a563613064d72f133cf1e03e160f54" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6464b83caac8f1b2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628566138551,
+        "stop" : 1628566141915,
+        "duration" : 3364
+      }
+    } ]
+  },
+  "a4f241985c155685672dab5fdaebb41" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "51e9007840e998c2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628566143611,
+        "stop" : 1628566146006,
+        "duration" : 2395
+      }
+    } ]
+  },
+  "47da4d1653798ee2c174b7fd3f67b7d2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c20a85551919b419",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628566126830,
+        "stop" : 1628566135145,
+        "duration" : 8315
+      }
+    } ]
+  },
+  "89fa92a88aa90c6a363349358256f8be" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "efcba01716ae31e9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628566146022,
+        "stop" : 1628566147476,
+        "duration" : 1454
+      }
+    } ]
+  }
+}

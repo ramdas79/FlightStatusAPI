@@ -1,0 +1,55 @@
+{
+  "uid" : "9e89b06e593ba562",
+  "name" : "flightStatusErrorForInvalidRoutes",
+  "fullName" : "tests.FlightStatusByRoute.flightStatusErrorForInvalidRoutes",
+  "historyId" : "89fa92a88aa90c6a363349358256f8be",
+  "time" : {
+    "start" : 1628565715524,
+    "stop" : 1628565718938,
+    "duration" : 3414
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-0M3FLTP"
+  }, {
+    "name" : "thread",
+    "value" : "16168@DESKTOP-0M3FLTP.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "tests.FlightStatusByRoute"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.FlightStatusByRoute"
+  }, {
+    "name" : "testMethod",
+    "value" : "flightStatusErrorForInvalidRoutes"
+  }, {
+    "name" : "suite",
+    "value" : "tests.FlightStatusByRoute"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9e89b06e593ba562.json",
+  "parameterValues" : [ ]
+}

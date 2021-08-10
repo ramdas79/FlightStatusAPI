@@ -1,0 +1,111 @@
+[ {
+  "uid" : "c4ba68e99d26b4a8",
+  "name" : "[4] CGN, MUC",
+  "time" : {
+    "start" : 1628566141929,
+    "stop" : 1628566143544,
+    "duration" : 1615
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "705e59447834e279",
+  "name" : "flightStatusRouteCurrentDay",
+  "time" : {
+    "start" : 1628543497924,
+    "stop" : 1628543502214,
+    "duration" : 4290
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2c321589207b7232",
+  "name" : "flightStatusForErrorWhenFlightDateLessThanSevenDays",
+  "time" : {
+    "start" : 1628566147489,
+    "stop" : 1628566150136,
+    "duration" : 2647
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f7a3b1aca710ec8a",
+  "name" : "flightStatusRoute",
+  "time" : {
+    "start" : 1628516608489,
+    "stop" : 1628516614033,
+    "duration" : 5544
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6464b83caac8f1b2",
+  "name" : "[3] CGN, VIE",
+  "time" : {
+    "start" : 1628566138551,
+    "stop" : 1628566141915,
+    "duration" : 3364
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e6869475bedd8e7e",
+  "name" : "[2] BER, CGN",
+  "time" : {
+    "start" : 1628566135201,
+    "stop" : 1628566138532,
+    "duration" : 3331
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aefe3a3366db6d4e",
+  "name" : "Verify Flight status of flights for multiple routes for the current day by parameterizing the routes",
+  "time" : {
+    "start" : 1628564063574,
+    "stop" : 1628564063582,
+    "duration" : 8
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "51e9007840e998c2",
+  "name" : "flightStatusRouteNextDay",
+  "time" : {
+    "start" : 1628566143611,
+    "stop" : 1628566146006,
+    "duration" : 2395
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c20a85551919b419",
+  "name" : "[1] CGN, BER",
+  "time" : {
+    "start" : 1628566126830,
+    "stop" : 1628566135145,
+    "duration" : 8315
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "271c9762886dbbb7",
+  "name" : "flightStatusRoutePrevDay",
+  "time" : {
+    "start" : 1628566150147,
+    "stop" : 1628566153579,
+    "duration" : 3432
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "efcba01716ae31e9",
+  "name" : "flightStatusErrorForInvalidRoutes",
+  "time" : {
+    "start" : 1628566146022,
+    "stop" : 1628566147476,
+    "duration" : 1454
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

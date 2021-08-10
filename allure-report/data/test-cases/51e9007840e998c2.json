@@ -1,0 +1,159 @@
+{
+  "uid" : "51e9007840e998c2",
+  "name" : "flightStatusRouteNextDay",
+  "fullName" : "tests.FlightStatusByRoute.flightStatusRouteNextDay",
+  "historyId" : "a4f241985c155685672dab5fdaebb41",
+  "time" : {
+    "start" : 1628566143611,
+    "stop" : 1628566146006,
+    "duration" : 2395
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-0M3FLTP"
+  }, {
+    "name" : "thread",
+    "value" : "6156@DESKTOP-0M3FLTP.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "tests.FlightStatusByRoute"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.FlightStatusByRoute"
+  }, {
+    "name" : "testMethod",
+    "value" : "flightStatusRouteNextDay"
+  }, {
+    "name" : "suite",
+    "value" : "tests.FlightStatusByRoute"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ec59911f7bf04050",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628565712821,
+        "stop" : 1628565715509,
+        "duration" : 2688
+      }
+    }, {
+      "uid" : "7e8c24d32e789d2b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628543502249,
+        "stop" : 1628543503565,
+        "duration" : 1316
+      }
+    }, {
+      "uid" : "b256aa4389e8ac8a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628543445021,
+        "stop" : 1628543446319,
+        "duration" : 1298
+      }
+    }, {
+      "uid" : "a1fd3ac0ab57d8fb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628543223636,
+        "stop" : 1628543225911,
+        "duration" : 2275
+      }
+    }, {
+      "uid" : "224b9ae57fb27399",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628537787736,
+        "stop" : 1628537790931,
+        "duration" : 3195
+      }
+    }, {
+      "uid" : "578370a8074cf0ab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628537399442,
+        "stop" : 1628537406173,
+        "duration" : 6731
+      }
+    }, {
+      "uid" : "5ba62860a1cfc956",
+      "status" : "failed",
+      "statusDetails" : "The status is success expected: java.lang.Boolean<true> but was: java.lang.String<true>",
+      "time" : {
+        "start" : 1628530421567,
+        "stop" : 1628530423322,
+        "duration" : 1755
+      }
+    }, {
+      "uid" : "4129224759a0143b",
+      "status" : "broken",
+      "statusDetails" : "java.lang.StackOverflowError",
+      "time" : {
+        "start" : 1628522347525,
+        "stop" : 1628522347533,
+        "duration" : 8
+      }
+    }, {
+      "uid" : "f11a41a6fe1f979c",
+      "status" : "broken",
+      "statusDetails" : "java.lang.StackOverflowError",
+      "time" : {
+        "start" : 1628522227017,
+        "stop" : 1628522227095,
+        "duration" : 78
+      }
+    }, {
+      "uid" : "eec1493734db4b5a",
+      "status" : "broken",
+      "statusDetails" : "java.lang.StackOverflowError",
+      "time" : {
+        "start" : 1628522169582,
+        "stop" : 1628522169703,
+        "duration" : 121
+      }
+    }, {
+      "uid" : "ba9b903bbd9bf8a2",
+      "status" : "broken",
+      "statusDetails" : "java.lang.StackOverflowError",
+      "time" : {
+        "start" : 1628522137795,
+        "stop" : 1628522137906,
+        "duration" : 111
+      }
+    }, {
+      "uid" : "c885a4aceb4b231e",
+      "status" : "broken",
+      "statusDetails" : "java.lang.StackOverflowError",
+      "time" : {
+        "start" : 1628522070817,
+        "stop" : 1628522070946,
+        "duration" : 129
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "51e9007840e998c2.json",
+  "parameterValues" : [ ]
+}

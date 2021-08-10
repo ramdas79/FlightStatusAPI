@@ -1,0 +1,1752 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-0M3FLTP",
+    "children" : [ {
+      "name" : "5728@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRouteCurrentDay",
+        "uid" : "5320a91554e17708",
+        "parentUid" : "7a2dfd41bd8eda434f6c396ef72ad249",
+        "status" : "failed",
+        "time" : {
+          "start" : 1628525899631,
+          "stop" : 1628525965058,
+          "duration" : 65427
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7a2dfd41bd8eda434f6c396ef72ad249"
+    }, {
+      "name" : "9044@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRouteCurrentDay",
+        "uid" : "5112ef922aee8674",
+        "parentUid" : "e4a315bdfd50bd6818524d1178950f43",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628529191317,
+          "stop" : 1628529195320,
+          "duration" : 4003
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e4a315bdfd50bd6818524d1178950f43"
+    }, {
+      "name" : "16220@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusForErrorWhenFlightDateLessThanSevenDays",
+        "uid" : "23b616bb9a7f0db9",
+        "parentUid" : "4395daf8f69418505a529434aef1fc7a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628543503570,
+          "stop" : 1628543506821,
+          "duration" : 3251
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "flightStatusRouteCurrentDay",
+        "uid" : "705e59447834e279",
+        "parentUid" : "4395daf8f69418505a529434aef1fc7a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628543497924,
+          "stop" : 1628543502214,
+          "duration" : 4290
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "flightStatusRoutePrevDay",
+        "uid" : "7ee8a3bfd6d51484",
+        "parentUid" : "4395daf8f69418505a529434aef1fc7a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628543506826,
+          "stop" : 1628543508076,
+          "duration" : 1250
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "flightStatusRouteNextDay",
+        "uid" : "7e8c24d32e789d2b",
+        "parentUid" : "4395daf8f69418505a529434aef1fc7a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628543502249,
+          "stop" : 1628543503565,
+          "duration" : 1316
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4395daf8f69418505a529434aef1fc7a"
+    }, {
+      "name" : "16032@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRoute",
+        "uid" : "2b622900589e5743",
+        "parentUid" : "3f3321d056b4a2201cae2e30839cea69",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628510528385,
+          "stop" : 1628510533955,
+          "duration" : 5570
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3f3321d056b4a2201cae2e30839cea69"
+    }, {
+      "name" : "10144@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusForErrorWhenFlightDateLessThanSevenDays",
+        "uid" : "c4adbcc3e6d0a36b",
+        "parentUid" : "c6dfed9e31f21501dd337aa346217894",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628537790936,
+          "stop" : 1628537795306,
+          "duration" : 4370
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "flightStatusRouteNextDay",
+        "uid" : "224b9ae57fb27399",
+        "parentUid" : "c6dfed9e31f21501dd337aa346217894",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628537787736,
+          "stop" : 1628537790931,
+          "duration" : 3195
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "flightStatusRoutePrevDay",
+        "uid" : "f9f0f41349cb6fc3",
+        "parentUid" : "c6dfed9e31f21501dd337aa346217894",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628537795312,
+          "stop" : 1628537799335,
+          "duration" : 4023
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "flightStatusRouteCurrentDay",
+        "uid" : "445cdbaf2ab15431",
+        "parentUid" : "c6dfed9e31f21501dd337aa346217894",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628537782010,
+          "stop" : 1628537787700,
+          "duration" : 5690
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c6dfed9e31f21501dd337aa346217894"
+    }, {
+      "name" : "6156@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "[3] CGN, VIE",
+        "uid" : "6464b83caac8f1b2",
+        "parentUid" : "58b1a109f2a7f8e0c442b79cbd0a967e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628566138551,
+          "stop" : 1628566141915,
+          "duration" : 3364
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "flightStatusRoutePrevDay",
+        "uid" : "271c9762886dbbb7",
+        "parentUid" : "58b1a109f2a7f8e0c442b79cbd0a967e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628566150147,
+          "stop" : 1628566153579,
+          "duration" : 3432
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[4] CGN, MUC",
+        "uid" : "c4ba68e99d26b4a8",
+        "parentUid" : "58b1a109f2a7f8e0c442b79cbd0a967e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628566141929,
+          "stop" : 1628566143544,
+          "duration" : 1615
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "flightStatusForErrorWhenFlightDateLessThanSevenDays",
+        "uid" : "2c321589207b7232",
+        "parentUid" : "58b1a109f2a7f8e0c442b79cbd0a967e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628566147489,
+          "stop" : 1628566150136,
+          "duration" : 2647
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[1] CGN, BER",
+        "uid" : "c20a85551919b419",
+        "parentUid" : "58b1a109f2a7f8e0c442b79cbd0a967e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628566126830,
+          "stop" : 1628566135145,
+          "duration" : 8315
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[2] BER, CGN",
+        "uid" : "e6869475bedd8e7e",
+        "parentUid" : "58b1a109f2a7f8e0c442b79cbd0a967e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628566135201,
+          "stop" : 1628566138532,
+          "duration" : 3331
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "flightStatusRouteNextDay",
+        "uid" : "51e9007840e998c2",
+        "parentUid" : "58b1a109f2a7f8e0c442b79cbd0a967e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628566143611,
+          "stop" : 1628566146006,
+          "duration" : 2395
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "flightStatusErrorForInvalidRoutes",
+        "uid" : "efcba01716ae31e9",
+        "parentUid" : "58b1a109f2a7f8e0c442b79cbd0a967e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628566146022,
+          "stop" : 1628566147476,
+          "duration" : 1454
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "58b1a109f2a7f8e0c442b79cbd0a967e"
+    }, {
+      "name" : "14520@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRoute",
+        "uid" : "9a4b957b40585ed2",
+        "parentUid" : "a5e5ce86699ca44cb6ff2b1fd96adcd3",
+        "status" : "failed",
+        "time" : {
+          "start" : 1628512614550,
+          "stop" : 1628512620229,
+          "duration" : 5679
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a5e5ce86699ca44cb6ff2b1fd96adcd3"
+    }, {
+      "name" : "4008@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRouteCurrentDay",
+        "uid" : "17178254abd65fcf",
+        "parentUid" : "2073a57533cb7a273047d397e364ee2f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1628525974954,
+          "stop" : 1628526106174,
+          "duration" : 131220
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2073a57533cb7a273047d397e364ee2f"
+    }, {
+      "name" : "16168@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "[1] CGN, BER",
+        "uid" : "865bf14090854304",
+        "parentUid" : "7a78028270dd8b13d47992ee17c077f6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628565699871,
+          "stop" : 1628565703546,
+          "duration" : 3675
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[2] BER, CGN",
+        "uid" : "e1d64282c663bc75",
+        "parentUid" : "7a78028270dd8b13d47992ee17c077f6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628565703593,
+          "stop" : 1628565706906,
+          "duration" : 3313
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "flightStatusRoutePrevDay",
+        "uid" : "d568ff8842561e6d",
+        "parentUid" : "7a78028270dd8b13d47992ee17c077f6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628565721374,
+          "stop" : 1628565724112,
+          "duration" : 2738
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[4] CGN, MUC",
+        "uid" : "8e1349e2b0ec09ad",
+        "parentUid" : "7a78028270dd8b13d47992ee17c077f6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628565709342,
+          "stop" : 1628565712752,
+          "duration" : 3410
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "flightStatusForErrorWhenFlightDateLessThanSevenDays",
+        "uid" : "1bbce94c291b5a2e",
+        "parentUid" : "7a78028270dd8b13d47992ee17c077f6",
+        "status" : "failed",
+        "time" : {
+          "start" : 1628565718951,
+          "stop" : 1628565721347,
+          "duration" : 2396
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[3] CGN, VIE",
+        "uid" : "8988aa320d01f2f6",
+        "parentUid" : "7a78028270dd8b13d47992ee17c077f6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628565706928,
+          "stop" : 1628565709322,
+          "duration" : 2394
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "flightStatusErrorForInvalidRoutes",
+        "uid" : "9e89b06e593ba562",
+        "parentUid" : "7a78028270dd8b13d47992ee17c077f6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628565715524,
+          "stop" : 1628565718938,
+          "duration" : 3414
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "flightStatusRouteNextDay",
+        "uid" : "ec59911f7bf04050",
+        "parentUid" : "7a78028270dd8b13d47992ee17c077f6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628565712821,
+          "stop" : 1628565715509,
+          "duration" : 2688
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7a78028270dd8b13d47992ee17c077f6"
+    }, {
+      "name" : "3020@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRoute",
+        "uid" : "d840fa254240d7f1",
+        "parentUid" : "a914ddf6eaadfb2e4ec226fcc6181eb6",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628508859338,
+          "stop" : 1628508861669,
+          "duration" : 2331
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a914ddf6eaadfb2e4ec226fcc6181eb6"
+    }, {
+      "name" : "8588@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusForErrorWhenFlightDateLessThanSevenDays",
+        "uid" : "8d42e38919b19986",
+        "parentUid" : "51f5e12f92c91d2ab951a13835da8495",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628530423342,
+          "stop" : 1628530427657,
+          "duration" : 4315
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "flightStatusRouteCurrentDay",
+        "uid" : "dc860200d16e72ac",
+        "parentUid" : "51f5e12f92c91d2ab951a13835da8495",
+        "status" : "failed",
+        "time" : {
+          "start" : 1628530416721,
+          "stop" : 1628530421521,
+          "duration" : 4800
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "flightStatusRouteNextDay",
+        "uid" : "5ba62860a1cfc956",
+        "parentUid" : "51f5e12f92c91d2ab951a13835da8495",
+        "status" : "failed",
+        "time" : {
+          "start" : 1628530421567,
+          "stop" : 1628530423322,
+          "duration" : 1755
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "flightStatusRoutePrevDay",
+        "uid" : "90cc0a81c1d429c6",
+        "parentUid" : "51f5e12f92c91d2ab951a13835da8495",
+        "status" : "failed",
+        "time" : {
+          "start" : 1628530427671,
+          "stop" : 1628530431558,
+          "duration" : 3887
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "51f5e12f92c91d2ab951a13835da8495"
+    }, {
+      "name" : "17292@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRouteCurrentDay",
+        "uid" : "ff348c3f82797d23",
+        "parentUid" : "3e73ee29541610f97b7518ba9c387c6e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628526435882,
+          "stop" : 1628526493240,
+          "duration" : 57358
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3e73ee29541610f97b7518ba9c387c6e"
+    }, {
+      "name" : "5592@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRoute",
+        "uid" : "b98be69a90322885",
+        "parentUid" : "f6eceb66f1c696de798b870ade2f72ce",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628504683221,
+          "stop" : 1628504687308,
+          "duration" : 4087
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f6eceb66f1c696de798b870ade2f72ce"
+    }, {
+      "name" : "2988@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRoute",
+        "uid" : "7bee65cd087976f3",
+        "parentUid" : "4ce5acc5d5ee2021b4f15201565634a2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628509230739,
+          "stop" : 1628509234163,
+          "duration" : 3424
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4ce5acc5d5ee2021b4f15201565634a2"
+    }, {
+      "name" : "4520@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRouteCurrentDay",
+        "uid" : "c935d71275237ac2",
+        "parentUid" : "88f4c0a7b3d212572df5eb5f6b4f6f6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628543219290,
+          "stop" : 1628543223595,
+          "duration" : 4305
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "flightStatusForErrorWhenFlightDateLessThanSevenDays",
+        "uid" : "d8726b0a9f5b8bfe",
+        "parentUid" : "88f4c0a7b3d212572df5eb5f6b4f6f6a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628543225916,
+          "stop" : 1628543228210,
+          "duration" : 2294
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "flightStatusRoutePrevDay",
+        "uid" : "4ec51420fca5f45d",
+        "parentUid" : "88f4c0a7b3d212572df5eb5f6b4f6f6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628543228219,
+          "stop" : 1628543229473,
+          "duration" : 1254
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "flightStatusRouteNextDay",
+        "uid" : "a1fd3ac0ab57d8fb",
+        "parentUid" : "88f4c0a7b3d212572df5eb5f6b4f6f6a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628543223636,
+          "stop" : 1628543225911,
+          "duration" : 2275
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "88f4c0a7b3d212572df5eb5f6b4f6f6a"
+    }, {
+      "name" : "1176@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRoutePrevDay",
+        "uid" : "b459fe383f16b71d",
+        "parentUid" : "cc1864368d08ee86e404373d1394ee03",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628522347594,
+          "stop" : 1628522347612,
+          "duration" : 18
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "flightStatusRouteNextDay",
+        "uid" : "4129224759a0143b",
+        "parentUid" : "cc1864368d08ee86e404373d1394ee03",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628522347525,
+          "stop" : 1628522347533,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "flightStatusRouteCurrentDay",
+        "uid" : "a55de74d530bfe68",
+        "parentUid" : "cc1864368d08ee86e404373d1394ee03",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628522347334,
+          "stop" : 1628522347390,
+          "duration" : 56
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cc1864368d08ee86e404373d1394ee03"
+    }, {
+      "name" : "10688@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRouteNextDay",
+        "uid" : "eec1493734db4b5a",
+        "parentUid" : "6a700dd2c7bf65df6c9845c3f2cea498",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628522169582,
+          "stop" : 1628522169703,
+          "duration" : 121
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6a700dd2c7bf65df6c9845c3f2cea498"
+    }, {
+      "name" : "18416@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "Verify Flight status of flights for multiple routes for the current day by parameterizing the routes",
+        "uid" : "aefe3a3366db6d4e",
+        "parentUid" : "50ea7291b6f19f644b6abef7c75beb7e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628564063574,
+          "stop" : 1628564063582,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "50ea7291b6f19f644b6abef7c75beb7e"
+    }, {
+      "name" : "11428@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRouteCurrentDay",
+        "uid" : "a5cb7e401a851ae",
+        "parentUid" : "5a069f079bc650efaea218f91d125112",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628522671635,
+          "stop" : 1628522671687,
+          "duration" : 52
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5a069f079bc650efaea218f91d125112"
+    }, {
+      "name" : "5432@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRoute",
+        "uid" : "e916c57ff813e2a9",
+        "parentUid" : "de1d3a590a487292c008e6908df0ee10",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628516026496,
+          "stop" : 1628516030550,
+          "duration" : 4054
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "de1d3a590a487292c008e6908df0ee10"
+    }, {
+      "name" : "5680@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRoute",
+        "uid" : "46e280f7d76a1baf",
+        "parentUid" : "fd67fc155215d9fe8ca066fd7d254637",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628511016360,
+          "stop" : 1628511024553,
+          "duration" : 8193
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fd67fc155215d9fe8ca066fd7d254637"
+    }, {
+      "name" : "12560@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRoute",
+        "uid" : "9abeedb71e096af0",
+        "parentUid" : "933c8797ec73210ba4c482a01f61b6be",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628501202499,
+          "stop" : 1628501204942,
+          "duration" : 2443
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "933c8797ec73210ba4c482a01f61b6be"
+    }, {
+      "name" : "13488@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRoute",
+        "uid" : "d9607ecb430d76f6",
+        "parentUid" : "beda8b2bdc343b01c77fb0e7273b8749",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628509935663,
+          "stop" : 1628509941342,
+          "duration" : 5679
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "beda8b2bdc343b01c77fb0e7273b8749"
+    }, {
+      "name" : "9808@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRouteCurrentDay",
+        "uid" : "441bda22558f53ce",
+        "parentUid" : "2adf6d50866e3e47fe78c4d8748e81c9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628522707319,
+          "stop" : 1628522707392,
+          "duration" : 73
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2adf6d50866e3e47fe78c4d8748e81c9"
+    }, {
+      "name" : "13572@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRouteCurrentDay",
+        "uid" : "d647aed4c692d036",
+        "parentUid" : "9b7a2251be59633a676390718ecc65cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628528934582,
+          "stop" : 1628528940895,
+          "duration" : 6313
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9b7a2251be59633a676390718ecc65cb"
+    }, {
+      "name" : "6556@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRouteCurrentDay",
+        "uid" : "eec45a291c231f6c",
+        "parentUid" : "857660161e46837460b95ab797eb8f32",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628528888974,
+          "stop" : 1628528909984,
+          "duration" : 21010
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "857660161e46837460b95ab797eb8f32"
+    }, {
+      "name" : "13552@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRoute",
+        "uid" : "1ecfc870007368b1",
+        "parentUid" : "02c934cb4e3eacee1a2e518283754ba0",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628504265050,
+          "stop" : 1628504267222,
+          "duration" : 2172
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "02c934cb4e3eacee1a2e518283754ba0"
+    }, {
+      "name" : "16716@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRouteCurrentDay",
+        "uid" : "3104ff6f3d565cba",
+        "parentUid" : "ffb422d7a850873483703b0e819688d4",
+        "status" : "failed",
+        "time" : {
+          "start" : 1628524447701,
+          "stop" : 1628524691039,
+          "duration" : 243338
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ffb422d7a850873483703b0e819688d4"
+    }, {
+      "name" : "6500@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRoute",
+        "uid" : "a8bb62b8e39e2940",
+        "parentUid" : "97352d13f243d8070214d2cd59320c12",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628504969899,
+          "stop" : 1628504972106,
+          "duration" : 2207
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "97352d13f243d8070214d2cd59320c12"
+    }, {
+      "name" : "14868@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRouteCurrentDay",
+        "uid" : "5beca8987152101c",
+        "parentUid" : "3812bf3119c9514abcd86a7954ed421d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1628524327364,
+          "stop" : 1628524332518,
+          "duration" : 5154
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3812bf3119c9514abcd86a7954ed421d"
+    }, {
+      "name" : "8088@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRouteCurrentDay",
+        "uid" : "c97ab9582c86da0a",
+        "parentUid" : "2c7c4f3ef6ffbec63adc469e0f34bf26",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628522414044,
+          "stop" : 1628522414097,
+          "duration" : 53
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2c7c4f3ef6ffbec63adc469e0f34bf26"
+    }, {
+      "name" : "16672@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "[1] SGN, BER",
+        "uid" : "2f3638e517aa25e7",
+        "parentUid" : "bfccd0185be23411596ea34ad1676095",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628564121624,
+          "stop" : 1628564126238,
+          "duration" : 4614
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[2] BER, SGN",
+        "uid" : "5ed2776f3535c22c",
+        "parentUid" : "bfccd0185be23411596ea34ad1676095",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628564126294,
+          "stop" : 1628564130022,
+          "duration" : 3728
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bfccd0185be23411596ea34ad1676095"
+    }, {
+      "name" : "11852@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRouteCurrentDay",
+        "uid" : "d3d95bde4e0e4897",
+        "parentUid" : "6f4ff2a8b9b72e9b172015fa385b76a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628524201802,
+          "stop" : 1628524207315,
+          "duration" : 5513
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6f4ff2a8b9b72e9b172015fa385b76a4"
+    }, {
+      "name" : "17172@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRoutePrevDay",
+        "uid" : "ae6a768dd112a21",
+        "parentUid" : "fe9e78d95d9f8b58722eb0c4a17ab958",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628537409682,
+          "stop" : 1628537411885,
+          "duration" : 2203
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "flightStatusRouteCurrentDay",
+        "uid" : "a1c4d6a372443222",
+        "parentUid" : "fe9e78d95d9f8b58722eb0c4a17ab958",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628537394730,
+          "stop" : 1628537399399,
+          "duration" : 4669
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "flightStatusRouteNextDay",
+        "uid" : "578370a8074cf0ab",
+        "parentUid" : "fe9e78d95d9f8b58722eb0c4a17ab958",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628537399442,
+          "stop" : 1628537406173,
+          "duration" : 6731
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "flightStatusForErrorWhenFlightDateLessThanSevenDays",
+        "uid" : "21e878ea2aa43b27",
+        "parentUid" : "fe9e78d95d9f8b58722eb0c4a17ab958",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628537406178,
+          "stop" : 1628537409676,
+          "duration" : 3498
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fe9e78d95d9f8b58722eb0c4a17ab958"
+    }, {
+      "name" : "17512@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "[2] BER, CGN",
+        "uid" : "6509b0f82774b9ba",
+        "parentUid" : "054c0d739dfc9552cedb5677f8eef165",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628564329348,
+          "stop" : 1628564331951,
+          "duration" : 2603
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "[1] CGN, BER",
+        "uid" : "648b93b7a8e020ea",
+        "parentUid" : "054c0d739dfc9552cedb5677f8eef165",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628564323326,
+          "stop" : 1628564329303,
+          "duration" : 5977
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "054c0d739dfc9552cedb5677f8eef165"
+    }, {
+      "name" : "12788@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRoute",
+        "uid" : "45fc91c7ea4a3d3c",
+        "parentUid" : "008e6ddb8edc4ecb5c2f80496a72b008",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628510201502,
+          "stop" : 1628510206627,
+          "duration" : 5125
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "008e6ddb8edc4ecb5c2f80496a72b008"
+    }, {
+      "name" : "17040@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRoute",
+        "uid" : "83a79b3ae2c66610",
+        "parentUid" : "2a0c1f7c2bd14f820b6d500d55a96598",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628515789092,
+          "stop" : 1628515794997,
+          "duration" : 5905
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2a0c1f7c2bd14f820b6d500d55a96598"
+    }, {
+      "name" : "11652@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRoute",
+        "uid" : "f7a3b1aca710ec8a",
+        "parentUid" : "ef1a5f6e9fdb6bed3cbc0eaee7f8a025",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628516608489,
+          "stop" : 1628516614033,
+          "duration" : 5544
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ef1a5f6e9fdb6bed3cbc0eaee7f8a025"
+    }, {
+      "name" : "18108@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRouteCurrentDay",
+        "uid" : "2cc627fb559beab5",
+        "parentUid" : "7806644db9aef846733f0d7f9c6b3e0b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628543441630,
+          "stop" : 1628543444983,
+          "duration" : 3353
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "flightStatusForErrorWhenFlightDateLessThanSevenDays",
+        "uid" : "d99f0d11c305665d",
+        "parentUid" : "7806644db9aef846733f0d7f9c6b3e0b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628543446324,
+          "stop" : 1628543447566,
+          "duration" : 1242
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "flightStatusRoutePrevDay",
+        "uid" : "aef40b8a2d360db1",
+        "parentUid" : "7806644db9aef846733f0d7f9c6b3e0b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628543447571,
+          "stop" : 1628543449824,
+          "duration" : 2253
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "flightStatusRouteNextDay",
+        "uid" : "b256aa4389e8ac8a",
+        "parentUid" : "7806644db9aef846733f0d7f9c6b3e0b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628543445021,
+          "stop" : 1628543446319,
+          "duration" : 1298
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7806644db9aef846733f0d7f9c6b3e0b"
+    }, {
+      "name" : "15132@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRoute",
+        "uid" : "88a52bc94b12f346",
+        "parentUid" : "3208a42a9c914403e371cf22991b1aa1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628509838437,
+          "stop" : 1628509844381,
+          "duration" : 5944
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3208a42a9c914403e371cf22991b1aa1"
+    }, {
+      "name" : "13096@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRoute",
+        "uid" : "c4e0946f1323e652",
+        "parentUid" : "f5ca12a0afafe8b5b4e0c305d1473a15",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628503719196,
+          "stop" : 1628503721998,
+          "duration" : 2802
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f5ca12a0afafe8b5b4e0c305d1473a15"
+    }, {
+      "name" : "8792@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRoute",
+        "uid" : "efb3b5b190bdbfd1",
+        "parentUid" : "00b1ba358a3a64c29cd2da8933734fde",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628510320280,
+          "stop" : 1628510326270,
+          "duration" : 5990
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "00b1ba358a3a64c29cd2da8933734fde"
+    }, {
+      "name" : "16612@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRouteCurrentDay",
+        "uid" : "480cca962d0d25e4",
+        "parentUid" : "b59841f927402031b71bcf471c16d250",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628526368518,
+          "stop" : 1628526405183,
+          "duration" : 36665
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b59841f927402031b71bcf471c16d250"
+    }, {
+      "name" : "16344@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRouteCurrentDay",
+        "uid" : "7a8cfaf044474c07",
+        "parentUid" : "50a8dd730e568ecee894a90c1d830f51",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628522517291,
+          "stop" : 1628522517343,
+          "duration" : 52
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "50a8dd730e568ecee894a90c1d830f51"
+    }, {
+      "name" : "14460@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRouteCurrentDay",
+        "uid" : "c9ad0e74b56e5caa",
+        "parentUid" : "cd74b927dae76318dbb92ae5511c9acb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628522611547,
+          "stop" : 1628522611602,
+          "duration" : 55
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cd74b927dae76318dbb92ae5511c9acb"
+    }, {
+      "name" : "13400@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRoute",
+        "uid" : "ef92b096c9ef7eb1",
+        "parentUid" : "7de8bdf06444bee44d8695b4f59202f6",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628504898930,
+          "stop" : 1628504900650,
+          "duration" : 1720
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7de8bdf06444bee44d8695b4f59202f6"
+    }, {
+      "name" : "2824@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRoute",
+        "uid" : "d70bb5545fa2053f",
+        "parentUid" : "7f0be486bfc1e7875056807cc7c3adc1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628497874893,
+          "stop" : 1628497877702,
+          "duration" : 2809
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7f0be486bfc1e7875056807cc7c3adc1"
+    }, {
+      "name" : "10900@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRouteNextDay",
+        "uid" : "f11a41a6fe1f979c",
+        "parentUid" : "1480bfcb43994d90e0169fc862be644b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628522227017,
+          "stop" : 1628522227095,
+          "duration" : 78
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1480bfcb43994d90e0169fc862be644b"
+    }, {
+      "name" : "16876@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRoute",
+        "uid" : "8459c1fd31def542",
+        "parentUid" : "e62d041eea6282c8a55e44811e86dff2",
+        "status" : "failed",
+        "time" : {
+          "start" : 1628516194101,
+          "stop" : 1628516199748,
+          "duration" : 5647
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e62d041eea6282c8a55e44811e86dff2"
+    }, {
+      "name" : "9940@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRouteCurrentDay",
+        "uid" : "f06e04bfcb17b305",
+        "parentUid" : "2524bfbb8cf18d22d5153d3e482fc1da",
+        "status" : "failed",
+        "time" : {
+          "start" : 1628526247148,
+          "stop" : 1628526267410,
+          "duration" : 20262
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2524bfbb8cf18d22d5153d3e482fc1da"
+    }, {
+      "name" : "3968@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRoute",
+        "uid" : "fc89ea45675b14a4",
+        "parentUid" : "463fbd1ebad184f19c2b1bdc59040a55",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628497959958,
+          "stop" : 1628497962115,
+          "duration" : 2157
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "463fbd1ebad184f19c2b1bdc59040a55"
+    }, {
+      "name" : "18376@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRouteCurrentDay",
+        "uid" : "49deb349ebd2f3ea",
+        "parentUid" : "9f9df9c3b0afffb07bc7bf59ba8d0271",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628524000394,
+          "stop" : 1628524000453,
+          "duration" : 59
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9f9df9c3b0afffb07bc7bf59ba8d0271"
+    }, {
+      "name" : "1732@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRoute",
+        "uid" : "e0d8ee0f145de87e",
+        "parentUid" : "23315b079bceabdfdab92ab622ca3f49",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628512882365,
+          "stop" : 1628512887164,
+          "duration" : 4799
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "23315b079bceabdfdab92ab622ca3f49"
+    }, {
+      "name" : "5568@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRoute",
+        "uid" : "24a694f356071081",
+        "parentUid" : "a48632b1850a2ca9627b36149a94d324",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628511496706,
+          "stop" : 1628511500317,
+          "duration" : 3611
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a48632b1850a2ca9627b36149a94d324"
+    }, {
+      "name" : "16208@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRoute",
+        "uid" : "b1e73ea9c237996f",
+        "parentUid" : "3e1f7206a29807389f88daa1a8a3b50c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628511115875,
+          "stop" : 1628511121379,
+          "duration" : 5504
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3e1f7206a29807389f88daa1a8a3b50c"
+    }, {
+      "name" : "9500@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRoute",
+        "uid" : "121683b792e29636",
+        "parentUid" : "a02ac7578232433697b7a126e8b35281",
+        "status" : "failed",
+        "time" : {
+          "start" : 1628509341807,
+          "stop" : 1628509347532,
+          "duration" : 5725
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a02ac7578232433697b7a126e8b35281"
+    }, {
+      "name" : "13964@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRoute",
+        "uid" : "d1081ff04784eade",
+        "parentUid" : "b757b646634aa14c406faaff80a5f5aa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628516138777,
+          "stop" : 1628516142433,
+          "duration" : 3656
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b757b646634aa14c406faaff80a5f5aa"
+    }, {
+      "name" : "15852@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRoute",
+        "uid" : "b7b62a375bcc239e",
+        "parentUid" : "6446caa791d9fe50386520c63d15ec46",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628513456009,
+          "stop" : 1628513460564,
+          "duration" : 4555
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6446caa791d9fe50386520c63d15ec46"
+    }, {
+      "name" : "16616@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRouteCurrentDay",
+        "uid" : "43ac715facf6f36e",
+        "parentUid" : "8cdd82ff65d3d0b73ef0ac4d0702b338",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628543181377,
+          "stop" : 1628543186731,
+          "duration" : 5354
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8cdd82ff65d3d0b73ef0ac4d0702b338"
+    }, {
+      "name" : "14268@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRoute",
+        "uid" : "93323d8c179eff3d",
+        "parentUid" : "b09eff878894463b8914fae304513e88",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628504555779,
+          "stop" : 1628504557909,
+          "duration" : 2130
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b09eff878894463b8914fae304513e88"
+    }, {
+      "name" : "16772@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRoute",
+        "uid" : "e23bf6f81f589b8f",
+        "parentUid" : "a63aac872b93b84f26b0d3ebfa7b22ec",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628515880232,
+          "stop" : 1628515886380,
+          "duration" : 6148
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a63aac872b93b84f26b0d3ebfa7b22ec"
+    }, {
+      "name" : "17384@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRouteNextDay",
+        "uid" : "c885a4aceb4b231e",
+        "parentUid" : "2e428e88eff15014dded214e0f13b8c2",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628522070817,
+          "stop" : 1628522070946,
+          "duration" : 129
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2e428e88eff15014dded214e0f13b8c2"
+    }, {
+      "name" : "10576@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRoute",
+        "uid" : "d020df0bb574f18d",
+        "parentUid" : "37e95743d3502201aab4c2d274ea76a1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628515972070,
+          "stop" : 1628515976595,
+          "duration" : 4525
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "37e95743d3502201aab4c2d274ea76a1"
+    }, {
+      "name" : "10876@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRoute",
+        "uid" : "43c8a830bf5dcc5f",
+        "parentUid" : "9308a3206109adf600b88ae2e96be58b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628510034190,
+          "stop" : 1628510038845,
+          "duration" : 4655
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9308a3206109adf600b88ae2e96be58b"
+    }, {
+      "name" : "11804@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRoute",
+        "uid" : "66c74e6025be20db",
+        "parentUid" : "99928f6ab4f8a1c3d6944e91cd263918",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628516071947,
+          "stop" : 1628516077429,
+          "duration" : 5482
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "99928f6ab4f8a1c3d6944e91cd263918"
+    }, {
+      "name" : "2740@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRouteNextDay",
+        "uid" : "ba9b903bbd9bf8a2",
+        "parentUid" : "b1947fc0f813a0a909bfe115dce0e401",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628522137795,
+          "stop" : 1628522137906,
+          "duration" : 111
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b1947fc0f813a0a909bfe115dce0e401"
+    }, {
+      "name" : "14224@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRoute",
+        "uid" : "873351c4920272ee",
+        "parentUid" : "e04da453c93a267d243d50fe8a985b93",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628504525275,
+          "stop" : 1628504527619,
+          "duration" : 2344
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e04da453c93a267d243d50fe8a985b93"
+    }, {
+      "name" : "16144@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRoute",
+        "uid" : "a538ac256b564a94",
+        "parentUid" : "e2108c8d6de2b5b482ba201908a14c5c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628512469273,
+          "stop" : 1628512473638,
+          "duration" : 4365
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e2108c8d6de2b5b482ba201908a14c5c"
+    }, {
+      "name" : "13540@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRouteCurrentDay",
+        "uid" : "f6a14b21477af542",
+        "parentUid" : "9d9d2e266bfdb1e65ffd392e58b27d15",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628542660300,
+          "stop" : 1628542896556,
+          "duration" : 236256
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9d9d2e266bfdb1e65ffd392e58b27d15"
+    }, {
+      "name" : "16540@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRoute",
+        "uid" : "a7b086814469f8cb",
+        "parentUid" : "8daaa81b9c48a59c557d3e6460b85c99",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628516446052,
+          "stop" : 1628516496569,
+          "duration" : 50517
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8daaa81b9c48a59c557d3e6460b85c99"
+    }, {
+      "name" : "8244@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRoute",
+        "uid" : "ca99b94df609e98f",
+        "parentUid" : "da837abf96fa28585d292569eaaee2d6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628515912544,
+          "stop" : 1628515916226,
+          "duration" : 3682
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "da837abf96fa28585d292569eaaee2d6"
+    }, {
+      "name" : "17804@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRouteCurrentDay",
+        "uid" : "ea5e74cdc3bc3afb",
+        "parentUid" : "1df00cd44c05799ab0fdd2b0f4f9a293",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628524718444,
+          "stop" : 1628524745224,
+          "duration" : 26780
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1df00cd44c05799ab0fdd2b0f4f9a293"
+    }, {
+      "name" : "18136@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRouteCurrentDay",
+        "uid" : "569dc08e419ee46a",
+        "parentUid" : "0ecd62ad41eb902d07b3a0de9065f476",
+        "status" : "failed",
+        "time" : {
+          "start" : 1628524828019,
+          "stop" : 1628524871082,
+          "duration" : 43063
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0ecd62ad41eb902d07b3a0de9065f476"
+    }, {
+      "name" : "1264@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRoute",
+        "uid" : "cdf451d87214de1e",
+        "parentUid" : "0a9d6d821ea7b04c0be852124d172364",
+        "status" : "failed",
+        "time" : {
+          "start" : 1628511520108,
+          "stop" : 1628511523780,
+          "duration" : 3672
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0a9d6d821ea7b04c0be852124d172364"
+    }, {
+      "name" : "15532@DESKTOP-0M3FLTP.main(1)",
+      "children" : [ {
+        "name" : "flightStatusRouteCurrentDay",
+        "uid" : "5051dab315ef88db",
+        "parentUid" : "dcd640e1534f0ba654595705a342b953",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628522543657,
+          "stop" : 1628522543711,
+          "duration" : 54
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "dcd640e1534f0ba654595705a342b953"
+    } ],
+    "uid" : "5734356b89a83a32a3dfd928bb02a91f"
+  } ]
+}

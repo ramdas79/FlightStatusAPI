@@ -1,0 +1,55 @@
+{
+  "uid" : "c935d71275237ac2",
+  "name" : "flightStatusRouteCurrentDay",
+  "fullName" : "tests.FlightStatusByRoute.flightStatusRouteCurrentDay",
+  "historyId" : "b349610e5fa26df988fb1ed2b57c85d7",
+  "time" : {
+    "start" : 1628543219290,
+    "stop" : 1628543223595,
+    "duration" : 4305
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-0M3FLTP"
+  }, {
+    "name" : "thread",
+    "value" : "4520@DESKTOP-0M3FLTP.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "tests.FlightStatusByRoute"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.FlightStatusByRoute"
+  }, {
+    "name" : "testMethod",
+    "value" : "flightStatusRouteCurrentDay"
+  }, {
+    "name" : "suite",
+    "value" : "tests.FlightStatusByRoute"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c935d71275237ac2.json",
+  "parameterValues" : [ ]
+}
